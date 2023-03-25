@@ -1,0 +1,9 @@
+{
+    "name": "yestian/yestian",
+    "autoload": {
+        "psr-4": {
+            "Yestian\\Yestian\\": "src/"
+        }
+    },
+    "require": {}
+}
