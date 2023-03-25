@@ -1,8 +1,8 @@
 {
-    "name": "yestian/yestian",
+    "name": "yestian/pc",
     "autoload": {
         "psr-4": {
-            "Yestian\\Yestian\\": "src/"
+            "Yestian\\Pc\\": "src/"
         }
     },
     "require": {}
